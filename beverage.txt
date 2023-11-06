@@ -1,0 +1,11 @@
+B0001,Orange Juice,2.9,100
+B0002,watermelon,3.9,100
+B0003,Coffee,3.9,100
+B0004,Milo,3.9,100
+B0005,Teh Ice,3.9,100
+B0006,Chinese Tea i/n,0.5,100
+B0007,100 Plus,4.5,100
+B0008,Coca Cola,4.5,100
+B0009,Pepsi,4.5,100
+B0010,lime water,10.9,100
+B0011,Orange,12.0,100

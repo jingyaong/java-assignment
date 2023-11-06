@@ -1,0 +1,15 @@
+V0001,Vegan Curry Mee,10.2,This food does not contain meat.,999
+
+V0002,Vege Fried Rice,8.9,This food does not contain meat.,100
+V0003,mushroom Fried Rice,8.9,This food does not contain meat.,100
+V0004,Vegan Meat ball(X10),10.9,This food does not contain meat.,100
+V0005,Vegan Carbonara,10.9,This food does not contain meat.,100
+N0001,Chicken Fried Rice,8.9,This food contains meat.,100
+N0002,Cheese Chicken Rice,10.9,This food contains meat.,200
+N0003,Chicken Chop Rice,16.9,This food contains meat.,100
+N0004,Har Mee,7.9,This food contains meat.,100
+N0005,Pan Mee,7.9,This food contains meat.,100
+V0006,Vegan 1,11.0,This food does not contain meat.,100
+V0007,vegan food test,10.0,This food does not contain meat.,100
+N0006,Non Vegan Food Test,10.9,This food contains meat.,100
+V0012,Vegan test,12.0,This food does not contain meat.,100
